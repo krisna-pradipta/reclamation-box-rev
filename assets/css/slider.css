@@ -78,8 +78,8 @@
 .slider-main .slick-prev{width:120px; right:120px;}
 .slider-main .slick-next{width:120px;}
 .slider-main .slick-prev:before{content: '\f104';font-size:20px; font-family: 'FontAwesome';color:#fff;}
-.slider-main .slick-next:before{content: 'Previous';font-size:14px; padding-right:8px;font-family:'Barlow'; color:#fff;}
-.slider-main .slick-prev:after{content: 'Next';font-size:14px; padding-left:8px;font-family:'Barlow'; color:#fff;}
+.slider-main .slick-next:before{content: 'Next';font-size:14px; padding-right:8px;font-family:'Barlow'; color:#fff;}
+.slider-main .slick-prev:after{content: 'Previous';font-size:14px; padding-left:8px;font-family:'Barlow'; color:#fff;}
 .slider-main .slick-next:after{content: '\f105';font-size:20px;font-family: 'FontAwesome'; color:#fff;}
 .slider-main::before{content:''; position:absolute; bottom:0; left:0; right:0; height:30px; background:#000 ;}
 .square {position: relative;width:100%;display:flex; align-items:center; justify-content: center;}
