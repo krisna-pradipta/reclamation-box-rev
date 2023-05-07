@@ -71,7 +71,7 @@
 .slider-main .slider-item .box-item .isi-kiri::-webkit-scrollbar:horizontal {height:6px;}
 .slider-main .slider-item .box-item .isi-kiri::-webkit-scrollbar:vertical {width:6px;}
 .slider-main .slider-item .box-item .isi-kiri h2.title{font-size:32px; line-height:42px; margin:0 0 10px 0;}
-.slider-main .slider-item .box-item .isi-kiri p{font-size:16px; line-height:26px;}
+.slider-main .slider-item .box-item .isi-kiri p{font-size:16px; line-height:1.4em;}
 .slider-main .slider-item .box-item{height:auto; padding:0;}
 .slider-main .slider-item .box-item .isi-kanan .img-card{width:100%; height:auto;}
 .slider-main .slider-item .box-item .isi-kanan .img-card img{width:100%; height:auto;}
